@@ -67,7 +67,7 @@ body{
 /* ===== CARD SECTIONS ===== */
 .current-weather,
 .forecast-section{
-    background: palegreen;
+    background: orange;
     padding: 25px;
     border-radius: 20px;
     margin-bottom: 30px;
@@ -179,3 +179,4 @@ body{
     border-radius: 12px;
     margin-bottom: 20px;
 }
+
